@@ -1,0 +1,6 @@
+streamlit==1.61.1
+requests
+pandas
+
+openpyxl>=3.1.0
+xlrd>=2.0.1

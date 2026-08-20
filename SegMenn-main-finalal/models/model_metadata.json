@@ -1,0 +1,15 @@
+{
+    "reference_year": 2014,
+    "reference_date": "2014-06-29",
+    "final_k": 3,
+    "cluster_names": {
+        "0": "Premium Customers",
+        "1": "Budget / Deal-Oriented Customers",
+        "2": "Regular Customers"
+    },
+    "recommendations": {
+        "Premium Customers": "Loyalty and premium-value strategy: offer premium products, loyalty rewards, and early access.",
+        "Budget / Deal-Oriented Customers": "Value and discount strategy: use targeted discounts, bundles, and price-sensitive offers.",
+        "Regular Customers": "Growth and cross-selling strategy: use personalized bundles, cross-sell offers, and loyalty incentives."
+    }
+}

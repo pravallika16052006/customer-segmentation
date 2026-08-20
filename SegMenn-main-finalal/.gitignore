@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Generated ML intermediate data
+data/processed/customer_feature_engineered.csv
+data/processed/test_customer_input.csv
+data/processed/batch_test.csv
+ml/outputs/
+
+# Temporary inference test data
